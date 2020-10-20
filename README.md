@@ -31,7 +31,7 @@ Each image is augmented three times for each iteration, therfore generating more
 
 Model is trained and got Training accuracy of 97.22% while Validation accuracy is 83.33%.
 
-**THIS SHOWS HOW TRANSFER LEARNING CAN BE USED IN DEEP LEARNING FOR SMALL DATASETS AND STILL GETTING GOOD ACCURACY.
+**THIS SHOWS HOW TRANSFER LEARNING CAN BE USED IN DEEP LEARNING FOR SMALL DATASETS AND STILL GETTING GOOD ACCURACY.**
 
 - Author: Aaryan Verma
 - References:
